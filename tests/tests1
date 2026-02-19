@@ -1,0 +1,8 @@
+TEST: User can log in with valid credentials
+
+GIVEN user is on Login page
+WHEN user enters valid email
+AND user enters valid password
+AND user clicks "Login"
+THEN user should be redirected to Dashboard
+AND welcome message should be displayed

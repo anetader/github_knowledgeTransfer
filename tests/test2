@@ -1,6 +1,6 @@
 TEST: User can create a new organization
 
-GIVEN user is logged in
+GIVEN user is logged out
 AND user is on Counterparty page
 WHEN user clicks "Register New Organization"
 AND user fills required fields (Name, Country)

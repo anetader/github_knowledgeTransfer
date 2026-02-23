@@ -1,6 +1,6 @@
 TEST: User can log in with valid credentials
 
-GIVEN user is on Login page
+GIVEN user is on Home page
 WHEN user enters valid email
 AND user enters valid password
 AND user clicks "Login"

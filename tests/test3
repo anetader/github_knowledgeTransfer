@@ -1,7 +1,7 @@
 TEST: User can create a new organization
 
 GIVEN user is logged in
-AND user is on Counterparty page
+AND user is on Accounting page
 WHEN user clicks "Register New Organization"
 AND user fills required fields (Name, Country)
 AND user clicks "Save"

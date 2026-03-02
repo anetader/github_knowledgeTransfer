@@ -6,4 +6,4 @@ WHEN user clicks "Register New Organization"
 AND user fills required fields (Name, Country)
 AND user clicks "Save"
 THEN organization should be created
-AND organization detail page should be displayed
+AND organization detail page should be displayed on the screen
